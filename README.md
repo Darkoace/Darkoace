@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tshepang Sekhu</h1>
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 
-- 🔭 I’m currently working on [ShoppingManagementSystem](UserAuth)
+- 🔭 I've created a shopping system that simplifies the work of a cashier in a small shop [ShoppingManagementSystem](UserAuth)
 
 - 🌱 I’m currently learning **Sqlite,CS50**
 
