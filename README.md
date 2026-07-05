@@ -4,7 +4,7 @@
 
 - 🔭 I've created a shopping system that simplifies the work of a cashier in a small shop [ShoppingManagementSystem](UserAuth)
 
-- 🌱 I’m currently learning **Sqlite,CS50**
+- 🌱 I'm a certified **fullstack-developer**
 
 - 👯 I’m looking to collaborate on **projects**
 
