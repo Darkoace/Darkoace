@@ -6,7 +6,7 @@
 
 - I've made and deployed a Petwebsite for existing business[https://sowetopetcare.netlify.app/] 
 
--I have freelancing portfolio where I collaborate with other devs to make solutions for existing businesses[https://sekhusolutions.netlify.app/]
+- I have freelancing portfolio where I collaborate with other devs to make solutions for existing     businesses[https://sekhusolutions.netlify.app/]
 
 - 🌱 I'm a certified **fullstack-developer**
 
